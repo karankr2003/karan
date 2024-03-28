@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karankr2003&label=Profile%20views&color=0e75b6&style=flat" alt="karankr2003" /> </p>
 
-- 🔭 I’m currently pursuing B **Bachelor degree in the field of Artificial Intelligence and Machine Learning**
+- 🔭 I’m currently pursuing  **Bachelor degree in the field of Artificial Intelligence and Machine Learning**
 
 - 🌱 I’m currently learning **AWS, Service Now, GCP and Salesforce**
 
