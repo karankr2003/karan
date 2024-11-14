@@ -7,7 +7,7 @@
 
 - 🔭 Associate Software Engineer **@ NUO Financial Technologies. Bengaluru, Karnataka**
 
-- 🌱 I’m currently learning **Spring Boot, Miciroservice and AWS.**
+- 🌱 I’m currently learning **Spring Boot, Miciroservice, DevOps and AWS.**
 
 - Hands-on Experience with **React.js, Oracle SQL & PL/SQL, Python and AI.**
 
